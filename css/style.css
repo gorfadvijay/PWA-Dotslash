@@ -16,8 +16,10 @@ html,
 .container {
   margin: 0;
   text-align: center;
+  margin-left: 25px;
 }
 
 .title {
   font-size: 3rem;
+  background-color: aqua;
 }
